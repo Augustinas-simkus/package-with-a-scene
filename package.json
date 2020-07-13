@@ -1,0 +1,15 @@
+{
+	"name": "com.augustinas_simkus.package_with_a_scene",
+	"displayName": "Package with a Scene",
+	"version": "1.0.0",
+	"unity": "2018.4",
+	"repository": {
+		"type": "git",
+		"url": "",
+		"revision": "1.0.0"
+	},
+  "description": "Package with a Scene file",
+  "author": {
+    "name": "Augustinas Simkus"
+  } 
+}
